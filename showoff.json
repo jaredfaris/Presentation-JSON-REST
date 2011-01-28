@@ -1,0 +1,8 @@
+{ 
+  "name": "Alphabet Soup - JSON and REST", 
+  "sections": [ 
+    { "section" : "title"},
+    { "section" : "json" },
+    { "section" : "rest" }
+  ]
+}
