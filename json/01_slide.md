@@ -86,4 +86,7 @@
 # Sending JSON Client-Side #
 * Most languages can read/write JSON 
 * In ASP.NET MVC there is a JsonResult ViewResult.  You just "return Json(yourObject);"
-* WCF can be configured to use JSON instead of SOAP (example [here](http://dotnetslackers.com/articles/ajax/JSON-EnabledWCFServicesInASPNET35.aspx))
+* WCF can be configured to use JSON instead of XML (example [here](http://dotnetslackers.com/articles/ajax/JSON-EnabledWCFServicesInASPNET35.aspx))
+
+!SLIDE
+# Questions? #
