@@ -13,7 +13,7 @@
 # Verb That Noun! #
 * You probably know these.  Your web browser does them all the time.
 * POST - Create something new.  Ex:  A form posting your credit card data creates a new transaction
-* GET - Return a resource.  Ex:  A get call on a URI returns a webpage
+* GET - Return a resource.  Ex:  A get call on a URI returns a web page
 
 !SLIDE smbullets small
 # Verb That Noun Again! #
