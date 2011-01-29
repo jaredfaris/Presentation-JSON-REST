@@ -4,7 +4,7 @@
 
 !SLIDE smbullets small
 # Huh? #
-* REST is an archetectural style for client server interactions
+* REST is an architectural style for client server interactions
 * It's based on the concept of limited verbs (methods) but unlimited nouns (identifiers)
 * The only methods generally used in REST are GET, POST, PUT, and DELETE
 * Resources are identified by their.. wait for it.. identifiers.  URIs
